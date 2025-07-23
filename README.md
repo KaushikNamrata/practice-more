@@ -49,4 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KaushikNamrata/practice-more/tree/master/0011-container-with-most-water) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/KaushikNamrata/practice-more/tree/master/1818-maximum-score-from-removing-substrings) |
+## String
+|  |
+| ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/KaushikNamrata/practice-more/tree/master/1818-maximum-score-from-removing-substrings) |
+## Stack
+|  |
+| ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/KaushikNamrata/practice-more/tree/master/1818-maximum-score-from-removing-substrings) |
 <!---LeetCode Topics End-->
