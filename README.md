@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/KaushikNamrata/practice-more/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/KaushikNamrata/practice-more/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KaushikNamrata/practice-more/tree/master/0540-single-element-in-a-sorted-array) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/KaushikNamrata/practice-more/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Bit Manipulation
 |  |
 | ------- |
