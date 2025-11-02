@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/KaushikNamrata/practice-more/tree/master/0053-maximum-subarray) |
 | [0410-split-array-largest-sum](https://github.com/KaushikNamrata/practice-more/tree/master/0410-split-array-largest-sum) |
+| [1013-fibonacci-number](https://github.com/KaushikNamrata/practice-more/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,10 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/KaushikNamrata/practice-more/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/KaushikNamrata/practice-more/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/KaushikNamrata/practice-more/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/KaushikNamrata/practice-more/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/KaushikNamrata/practice-more/tree/master/0050-powx-n) |
+| [1013-fibonacci-number](https://github.com/KaushikNamrata/practice-more/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/KaushikNamrata/practice-more/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/KaushikNamrata/practice-more/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KaushikNamrata/practice-more/tree/master/0540-single-element-in-a-sorted-array) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/KaushikNamrata/practice-more/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
