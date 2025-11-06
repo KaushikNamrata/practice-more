@@ -1,20 +1,12 @@
 class Solution {
 public:
+    double solve(double x,long n){
+        if(n==0) return 1;
+        if(n<0) return solve(1/x,-n);
+        if(n%2==0) return solve(x*x,n/2);
+        else return x*solve(x*x,(n-1)/2);
+    }
     double myPow(double x, int n) {
-        long binform=n;
-        if(n<0){
-            x=1/x;
-            binform= -binform;  
-        }
-        double ans=1;
-        while(binform>0){
-            if(binform%2==1){
-                ans*=x;
-            }
-            x*=x;
-            binform/=2;
-
-        }
-        return ans;
+        return solve( x,(long)n);
     }
 };
