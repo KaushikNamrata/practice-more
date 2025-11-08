@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/KaushikNamrata/practice-more/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/KaushikNamrata/practice-more/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KaushikNamrata/practice-more/tree/master/0540-single-element-in-a-sorted-array) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KaushikNamrata/practice-more/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/KaushikNamrata/practice-more/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Bit Manipulation
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/KaushikNamrata/practice-more/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/KaushikNamrata/practice-more/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/KaushikNamrata/practice-more/tree/master/0268-missing-number) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KaushikNamrata/practice-more/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Counting
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/KaushikNamrata/practice-more/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KaushikNamrata/practice-more/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/KaushikNamrata/practice-more/tree/master/0189-rotate-array) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KaushikNamrata/practice-more/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Greedy
 |  |
 | ------- |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/KaushikNamrata/practice-more/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/KaushikNamrata/practice-more/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KaushikNamrata/practice-more/tree/master/0540-single-element-in-a-sorted-array) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KaushikNamrata/practice-more/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Memoization
 |  |
 | ------- |
