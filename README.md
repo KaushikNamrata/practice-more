@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/KaushikNamrata/practice-more/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/KaushikNamrata/practice-more/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KaushikNamrata/practice-more/tree/master/0189-rotate-array) |
+| [0216-combination-sum-iii](https://github.com/KaushikNamrata/practice-more/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/KaushikNamrata/practice-more/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/KaushikNamrata/practice-more/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/KaushikNamrata/practice-more/tree/master/0410-split-array-largest-sum) |
@@ -122,4 +123,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/KaushikNamrata/practice-more/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/KaushikNamrata/practice-more/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/KaushikNamrata/practice-more/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/KaushikNamrata/practice-more/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
