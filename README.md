@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KaushikNamrata/practice-more/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/KaushikNamrata/practice-more/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KaushikNamrata/practice-more/tree/master/0033-search-in-rotated-sorted-array) |
+| [0040-combination-sum-ii](https://github.com/KaushikNamrata/practice-more/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/KaushikNamrata/practice-more/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/KaushikNamrata/practice-more/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/KaushikNamrata/practice-more/tree/master/0078-subsets) |
@@ -116,5 +117,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/KaushikNamrata/practice-more/tree/master/0022-generate-parentheses) |
+| [0040-combination-sum-ii](https://github.com/KaushikNamrata/practice-more/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/KaushikNamrata/practice-more/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
