@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/KaushikNamrata/practice-more/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/KaushikNamrata/practice-more/tree/master/0053-maximum-subarray) |
+| [0131-palindrome-partitioning](https://github.com/KaushikNamrata/practice-more/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/KaushikNamrata/practice-more/tree/master/0410-split-array-largest-sum) |
 | [1013-fibonacci-number](https://github.com/KaushikNamrata/practice-more/tree/master/1013-fibonacci-number) |
 ## Hash Table
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/KaushikNamrata/practice-more/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/KaushikNamrata/practice-more/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/KaushikNamrata/practice-more/tree/master/0131-palindrome-partitioning) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/KaushikNamrata/practice-more/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Stack
 |  |
@@ -123,5 +125,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/KaushikNamrata/practice-more/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/KaushikNamrata/practice-more/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/KaushikNamrata/practice-more/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/KaushikNamrata/practice-more/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/KaushikNamrata/practice-more/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
