@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/KaushikNamrata/practice-more/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/KaushikNamrata/practice-more/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/KaushikNamrata/practice-more/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/KaushikNamrata/practice-more/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/KaushikNamrata/practice-more/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/KaushikNamrata/practice-more/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/KaushikNamrata/practice-more/tree/master/0136-single-number) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/KaushikNamrata/practice-more/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/KaushikNamrata/practice-more/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/KaushikNamrata/practice-more/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/KaushikNamrata/practice-more/tree/master/0131-palindrome-partitioning) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/KaushikNamrata/practice-more/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Stack
@@ -124,7 +126,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/KaushikNamrata/practice-more/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/KaushikNamrata/practice-more/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/KaushikNamrata/practice-more/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/KaushikNamrata/practice-more/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/KaushikNamrata/practice-more/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/KaushikNamrata/practice-more/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/KaushikNamrata/practice-more/tree/master/0216-combination-sum-iii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/KaushikNamrata/practice-more/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/KaushikNamrata/practice-more/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
