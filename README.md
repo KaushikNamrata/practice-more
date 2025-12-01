@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KaushikNamrata/practice-more/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/KaushikNamrata/practice-more/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KaushikNamrata/practice-more/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/KaushikNamrata/practice-more/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KaushikNamrata/practice-more/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/KaushikNamrata/practice-more/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/KaushikNamrata/practice-more/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KaushikNamrata/practice-more/tree/master/0268-missing-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KaushikNamrata/practice-more/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Counting
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/KaushikNamrata/practice-more/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/KaushikNamrata/practice-more/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/KaushikNamrata/practice-more/tree/master/0131-palindrome-partitioning) |
+| [0242-valid-anagram](https://github.com/KaushikNamrata/practice-more/tree/master/0242-valid-anagram) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/KaushikNamrata/practice-more/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Stack
 |  |
