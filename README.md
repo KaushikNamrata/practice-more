@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/KaushikNamrata/practice-more/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/KaushikNamrata/practice-more/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/KaushikNamrata/practice-more/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/KaushikNamrata/practice-more/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/KaushikNamrata/practice-more/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KaushikNamrata/practice-more/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/KaushikNamrata/practice-more/tree/master/0216-combination-sum-iii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/KaushikNamrata/practice-more/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KaushikNamrata/practice-more/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/KaushikNamrata/practice-more/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/KaushikNamrata/practice-more/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/KaushikNamrata/practice-more/tree/master/0189-rotate-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KaushikNamrata/practice-more/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Greedy
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/KaushikNamrata/practice-more/tree/master/0033-search-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/KaushikNamrata/practice-more/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/KaushikNamrata/practice-more/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/KaushikNamrata/practice-more/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KaushikNamrata/practice-more/tree/master/0540-single-element-in-a-sorted-array) |
