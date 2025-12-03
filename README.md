@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/KaushikNamrata/practice-more/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/KaushikNamrata/practice-more/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/KaushikNamrata/practice-more/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/KaushikNamrata/practice-more/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KaushikNamrata/practice-more/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/KaushikNamrata/practice-more/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KaushikNamrata/practice-more/tree/master/0189-rotate-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/KaushikNamrata/practice-more/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/KaushikNamrata/practice-more/tree/master/0050-powx-n) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/KaushikNamrata/practice-more/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/KaushikNamrata/practice-more/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/KaushikNamrata/practice-more/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/KaushikNamrata/practice-more/tree/master/1013-fibonacci-number) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/KaushikNamrata/practice-more/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/KaushikNamrata/practice-more/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/KaushikNamrata/practice-more/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/KaushikNamrata/practice-more/tree/master/0155-min-stack) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/KaushikNamrata/practice-more/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Prefix Sum
