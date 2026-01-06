@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KaushikNamrata/practice-more/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/KaushikNamrata/practice-more/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KaushikNamrata/practice-more/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/KaushikNamrata/practice-more/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/KaushikNamrata/practice-more/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/KaushikNamrata/practice-more/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/KaushikNamrata/practice-more/tree/master/0048-rotate-image) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/KaushikNamrata/practice-more/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/KaushikNamrata/practice-more/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KaushikNamrata/practice-more/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/KaushikNamrata/practice-more/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/KaushikNamrata/practice-more/tree/master/0410-split-array-largest-sum) |
