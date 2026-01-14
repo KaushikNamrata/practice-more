@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KaushikNamrata/practice-more/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/KaushikNamrata/practice-more/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/KaushikNamrata/practice-more/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/KaushikNamrata/practice-more/tree/master/1539-kth-missing-positive-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KaushikNamrata/practice-more/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/KaushikNamrata/practice-more/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KaushikNamrata/practice-more/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KaushikNamrata/practice-more/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/KaushikNamrata/practice-more/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/KaushikNamrata/practice-more/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/KaushikNamrata/practice-more/tree/master/1539-kth-missing-positive-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KaushikNamrata/practice-more/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Memoization
 |  |
