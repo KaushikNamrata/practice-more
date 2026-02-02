@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/KaushikNamrata/practice-more/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/KaushikNamrata/practice-more/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/KaushikNamrata/practice-more/tree/master/0242-valid-anagram) |
+| [1021-remove-outermost-parentheses](https://github.com/KaushikNamrata/practice-more/tree/master/1021-remove-outermost-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/KaushikNamrata/practice-more/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Stack
 |  |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/KaushikNamrata/practice-more/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/KaushikNamrata/practice-more/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/KaushikNamrata/practice-more/tree/master/0739-daily-temperatures) |
+| [1021-remove-outermost-parentheses](https://github.com/KaushikNamrata/practice-more/tree/master/1021-remove-outermost-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/KaushikNamrata/practice-more/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Prefix Sum
 |  |
