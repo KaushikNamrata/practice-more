@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/KaushikNamrata/practice-more/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/KaushikNamrata/practice-more/tree/master/0451-sort-characters-by-frequency) |
 | [1021-remove-outermost-parentheses](https://github.com/KaushikNamrata/practice-more/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KaushikNamrata/practice-more/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/KaushikNamrata/practice-more/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/KaushikNamrata/practice-more/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/KaushikNamrata/practice-more/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/KaushikNamrata/practice-more/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/KaushikNamrata/practice-more/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KaushikNamrata/practice-more/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/KaushikNamrata/practice-more/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Prefix Sum
 |  |
