@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/KaushikNamrata/practice-more/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/KaushikNamrata/practice-more/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/KaushikNamrata/practice-more/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/KaushikNamrata/practice-more/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/KaushikNamrata/practice-more/tree/master/0021-merge-two-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/KaushikNamrata/practice-more/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/KaushikNamrata/practice-more/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/KaushikNamrata/practice-more/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/KaushikNamrata/practice-more/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/KaushikNamrata/practice-more/tree/master/0876-middle-of-the-linked-list) |
