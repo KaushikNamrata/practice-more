@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/KaushikNamrata/practice-more/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/KaushikNamrata/practice-more/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/KaushikNamrata/practice-more/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/KaushikNamrata/practice-more/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/KaushikNamrata/practice-more/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/KaushikNamrata/practice-more/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KaushikNamrata/practice-more/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/KaushikNamrata/practice-more/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/KaushikNamrata/practice-more/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/KaushikNamrata/practice-more/tree/master/0876-middle-of-the-linked-list) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KaushikNamrata/practice-more/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KaushikNamrata/practice-more/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/KaushikNamrata/practice-more/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KaushikNamrata/practice-more/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/KaushikNamrata/practice-more/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/KaushikNamrata/practice-more/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/KaushikNamrata/practice-more/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/KaushikNamrata/practice-more/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KaushikNamrata/practice-more/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/KaushikNamrata/practice-more/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KaushikNamrata/practice-more/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/KaushikNamrata/practice-more/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/KaushikNamrata/practice-more/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/KaushikNamrata/practice-more/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/KaushikNamrata/practice-more/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/KaushikNamrata/practice-more/tree/master/0876-middle-of-the-linked-list) |
