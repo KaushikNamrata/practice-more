@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KaushikNamrata/practice-more/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/KaushikNamrata/practice-more/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/KaushikNamrata/practice-more/tree/master/1901-find-a-peak-element-ii) |
+| [2104-sum-of-subarray-ranges](https://github.com/KaushikNamrata/practice-more/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KaushikNamrata/practice-more/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2965-find-missing-and-repeated-values](https://github.com/KaushikNamrata/practice-more/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/KaushikNamrata/practice-more/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KaushikNamrata/practice-more/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/KaushikNamrata/practice-more/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2104-sum-of-subarray-ranges](https://github.com/KaushikNamrata/practice-more/tree/master/2104-sum-of-subarray-ranges) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/KaushikNamrata/practice-more/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/KaushikNamrata/practice-more/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/KaushikNamrata/practice-more/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/KaushikNamrata/practice-more/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
 | ------- |
