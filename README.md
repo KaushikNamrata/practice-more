@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/KaushikNamrata/practice-more/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/KaushikNamrata/practice-more/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/KaushikNamrata/practice-more/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/KaushikNamrata/practice-more/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/KaushikNamrata/practice-more/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/KaushikNamrata/practice-more/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/KaushikNamrata/practice-more/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/KaushikNamrata/practice-more/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/KaushikNamrata/practice-more/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KaushikNamrata/practice-more/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/KaushikNamrata/practice-more/tree/master/0493-reverse-pairs) |
 ## Dynamic Programming
