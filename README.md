@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/KaushikNamrata/practice-more/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KaushikNamrata/practice-more/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/KaushikNamrata/practice-more/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/KaushikNamrata/practice-more/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/KaushikNamrata/practice-more/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/KaushikNamrata/practice-more/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/KaushikNamrata/practice-more/tree/master/0493-reverse-pairs) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/KaushikNamrata/practice-more/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/KaushikNamrata/practice-more/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/KaushikNamrata/practice-more/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/KaushikNamrata/practice-more/tree/master/0287-find-the-duplicate-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/KaushikNamrata/practice-more/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Divide and Conquer
 |  |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KaushikNamrata/practice-more/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/KaushikNamrata/practice-more/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/KaushikNamrata/practice-more/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/KaushikNamrata/practice-more/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/KaushikNamrata/practice-more/tree/master/0876-middle-of-the-linked-list) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KaushikNamrata/practice-more/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KaushikNamrata/practice-more/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KaushikNamrata/practice-more/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KaushikNamrata/practice-more/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/KaushikNamrata/practice-more/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/KaushikNamrata/practice-more/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/KaushikNamrata/practice-more/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/KaushikNamrata/practice-more/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KaushikNamrata/practice-more/tree/master/0540-single-element-in-a-sorted-array) |
