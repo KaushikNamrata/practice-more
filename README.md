@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/KaushikNamrata/practice-more/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KaushikNamrata/practice-more/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/KaushikNamrata/practice-more/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KaushikNamrata/practice-more/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/KaushikNamrata/practice-more/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/KaushikNamrata/practice-more/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/KaushikNamrata/practice-more/tree/master/0560-subarray-sum-equals-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/KaushikNamrata/practice-more/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KaushikNamrata/practice-more/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/KaushikNamrata/practice-more/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
@@ -371,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/KaushikNamrata/practice-more/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/KaushikNamrata/practice-more/tree/master/0232-implement-queue-using-stacks) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KaushikNamrata/practice-more/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
