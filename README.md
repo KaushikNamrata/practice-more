@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/KaushikNamrata/practice-more/tree/master/1901-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/KaushikNamrata/practice-more/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KaushikNamrata/practice-more/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/KaushikNamrata/practice-more/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2965-find-missing-and-repeated-values](https://github.com/KaushikNamrata/practice-more/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KaushikNamrata/practice-more/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KaushikNamrata/practice-more/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KaushikNamrata/practice-more/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/KaushikNamrata/practice-more/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Greedy
 |  |
 | ------- |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/KaushikNamrata/practice-more/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/KaushikNamrata/practice-more/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KaushikNamrata/practice-more/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/KaushikNamrata/practice-more/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Union Find
 |  |
 | ------- |
