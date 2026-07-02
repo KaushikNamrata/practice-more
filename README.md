@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/KaushikNamrata/practice-more/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/KaushikNamrata/practice-more/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/KaushikNamrata/practice-more/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/KaushikNamrata/practice-more/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/KaushikNamrata/practice-more/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/KaushikNamrata/practice-more/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KaushikNamrata/practice-more/tree/master/0540-single-element-in-a-sorted-array) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/KaushikNamrata/practice-more/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/KaushikNamrata/practice-more/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/KaushikNamrata/practice-more/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/KaushikNamrata/practice-more/tree/master/0416-partition-equal-subset-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/KaushikNamrata/practice-more/tree/master/0907-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/KaushikNamrata/practice-more/tree/master/1013-fibonacci-number) |
 ## Hash Table
