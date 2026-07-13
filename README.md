@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/KaushikNamrata/practice-more/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/KaushikNamrata/practice-more/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/KaushikNamrata/practice-more/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/KaushikNamrata/practice-more/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/KaushikNamrata/practice-more/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/KaushikNamrata/practice-more/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/KaushikNamrata/practice-more/tree/master/0064-minimum-path-sum) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/KaushikNamrata/practice-more/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/KaushikNamrata/practice-more/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/KaushikNamrata/practice-more/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/KaushikNamrata/practice-more/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/KaushikNamrata/practice-more/tree/master/0234-palindrome-linked-list) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KaushikNamrata/practice-more/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/KaushikNamrata/practice-more/tree/master/0044-wildcard-matching) |
 | [0402-remove-k-digits](https://github.com/KaushikNamrata/practice-more/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/KaushikNamrata/practice-more/tree/master/0410-split-array-largest-sum) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/KaushikNamrata/practice-more/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/KaushikNamrata/practice-more/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/KaushikNamrata/practice-more/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/KaushikNamrata/practice-more/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/KaushikNamrata/practice-more/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/KaushikNamrata/practice-more/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/KaushikNamrata/practice-more/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/KaushikNamrata/practice-more/tree/master/0125-valid-palindrome) |
