@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/KaushikNamrata/practice-more/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/KaushikNamrata/practice-more/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/KaushikNamrata/practice-more/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/KaushikNamrata/practice-more/tree/master/0583-delete-operation-for-two-strings) |
 | [0907-sum-of-subarray-minimums](https://github.com/KaushikNamrata/practice-more/tree/master/0907-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/KaushikNamrata/practice-more/tree/master/1013-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/KaushikNamrata/practice-more/tree/master/1143-longest-common-subsequence) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/KaushikNamrata/practice-more/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/KaushikNamrata/practice-more/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/KaushikNamrata/practice-more/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/KaushikNamrata/practice-more/tree/master/0583-delete-operation-for-two-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/KaushikNamrata/practice-more/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/KaushikNamrata/practice-more/tree/master/1143-longest-common-subsequence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KaushikNamrata/practice-more/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
