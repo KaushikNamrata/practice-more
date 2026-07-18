@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KaushikNamrata/practice-more/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/KaushikNamrata/practice-more/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/KaushikNamrata/practice-more/tree/master/1901-find-a-peak-element-ii) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/KaushikNamrata/practice-more/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/KaushikNamrata/practice-more/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KaushikNamrata/practice-more/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/KaushikNamrata/practice-more/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/KaushikNamrata/practice-more/tree/master/1013-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/KaushikNamrata/practice-more/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/KaushikNamrata/practice-more/tree/master/1903-largest-odd-number-in-string) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/KaushikNamrata/practice-more/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/KaushikNamrata/practice-more/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
@@ -441,4 +443,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/KaushikNamrata/practice-more/tree/master/1248-count-number-of-nice-subarrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KaushikNamrata/practice-more/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/KaushikNamrata/practice-more/tree/master/2653-sliding-subarray-beauty) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/KaushikNamrata/practice-more/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
