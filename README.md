@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/KaushikNamrata/practice-more/tree/master/0907-sum-of-subarray-minimums) |
 | [1004-max-consecutive-ones-iii](https://github.com/KaushikNamrata/practice-more/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KaushikNamrata/practice-more/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1043-partition-array-for-maximum-sum](https://github.com/KaushikNamrata/practice-more/tree/master/1043-partition-array-for-maximum-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/KaushikNamrata/practice-more/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/KaushikNamrata/practice-more/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/KaushikNamrata/practice-more/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/KaushikNamrata/practice-more/tree/master/0583-delete-operation-for-two-strings) |
 | [0907-sum-of-subarray-minimums](https://github.com/KaushikNamrata/practice-more/tree/master/0907-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/KaushikNamrata/practice-more/tree/master/1013-fibonacci-number) |
+| [1043-partition-array-for-maximum-sum](https://github.com/KaushikNamrata/practice-more/tree/master/1043-partition-array-for-maximum-sum) |
 | [1143-longest-common-subsequence](https://github.com/KaushikNamrata/practice-more/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/KaushikNamrata/practice-more/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Hash Table
