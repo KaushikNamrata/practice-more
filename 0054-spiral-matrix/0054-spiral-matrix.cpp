@@ -1,9 +1,10 @@
 class Solution {
 public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
-     vector<int> ans;
+        vector<int> ans;
 
-        if (matrix.empty()) return ans;
+        if (matrix.empty())
+            return ans;
 
         int top = 0;
         int bottom = matrix.size() - 1;
