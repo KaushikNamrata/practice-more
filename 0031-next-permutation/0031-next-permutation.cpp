@@ -1,34 +1,34 @@
 class Solution {
 public:
-    void nextPermutation(vector<int>& A) {
-        int pivot=-1,n=A.size();
+    void nextPermutation(vector<int>& nums) {
 
-        for(int i=n-2;i>=0;i--){
-            if(A[i]<A[i+1]){
-                pivot=i;
+        int n = nums.size();
+
+        // Step 1: Find pivot
+        int pivot = -1;
+
+        for (int i = n - 2; i >= 0; i--) {
+            if (nums[i] < nums[i + 1]) {
+                pivot = i;
                 break;
             }
-
         }
-        if(pivot==-1){
-            reverse(A.begin(),A.end());
+
+        // Step 2: If no pivot, reverse the whole array
+        if (pivot == -1) {
+            reverse(nums.begin(), nums.end());
             return;
         }
 
-        //2nd step next largest element
-        for(int i=n-1;i>pivot;i--){
-            if(A[i]>A[pivot]){
-                swap(A[i],A[pivot]);
+        // Step 3: Find next greater element
+        for (int i = n - 1; i > pivot; i--) {
+            if (nums[i] > nums[pivot]) {
+                swap(nums[i], nums[pivot]);
                 break;
             }
         }
-        //3rd step : Reverse piv+1 se n-1;
-        int i=pivot+1;
-        int j=n-1;
-        while(i<=j){
-            swap(A[i],A[j]);
-            i++;
-            j--;
-        }
+
+        // Step 4: Reverse the suffix
+        reverse(nums.begin() + pivot + 1, nums.end());
     }
 };
