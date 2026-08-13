@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/KaushikNamrata/practice-more/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/KaushikNamrata/practice-more/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/KaushikNamrata/practice-more/tree/master/0907-sum-of-subarray-minimums) |
+| [0994-rotting-oranges](https://github.com/KaushikNamrata/practice-more/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/KaushikNamrata/practice-more/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KaushikNamrata/practice-more/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1043-partition-array-for-maximum-sum](https://github.com/KaushikNamrata/practice-more/tree/master/1043-partition-array-for-maximum-sum) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/KaushikNamrata/practice-more/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/KaushikNamrata/practice-more/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KaushikNamrata/practice-more/tree/master/0240-search-a-2d-matrix-ii) |
+| [0994-rotting-oranges](https://github.com/KaushikNamrata/practice-more/tree/master/0994-rotting-oranges) |
 | [1901-find-a-peak-element-ii](https://github.com/KaushikNamrata/practice-more/tree/master/1901-find-a-peak-element-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/KaushikNamrata/practice-more/tree/master/2965-find-missing-and-repeated-values) |
 ## Monotonic Stack
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/KaushikNamrata/practice-more/tree/master/0100-same-tree) |
 | [0547-number-of-provinces](https://github.com/KaushikNamrata/practice-more/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/KaushikNamrata/practice-more/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
