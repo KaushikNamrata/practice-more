@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/KaushikNamrata/practice-more/tree/master/1013-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/KaushikNamrata/practice-more/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/KaushikNamrata/practice-more/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/KaushikNamrata/practice-more/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KaushikNamrata/practice-more/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/KaushikNamrata/practice-more/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/KaushikNamrata/practice-more/tree/master/0410-split-array-largest-sum) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/KaushikNamrata/practice-more/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/KaushikNamrata/practice-more/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/KaushikNamrata/practice-more/tree/master/1927-sum-game) |
 ## String
 |  |
 | ------- |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/KaushikNamrata/practice-more/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/KaushikNamrata/practice-more/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/KaushikNamrata/practice-more/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/KaushikNamrata/practice-more/tree/master/1927-sum-game) |
 ## Stack
 |  |
 | ------- |
@@ -488,4 +491,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/KaushikNamrata/practice-more/tree/master/0547-number-of-provinces) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/KaushikNamrata/practice-more/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
